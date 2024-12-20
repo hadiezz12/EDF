@@ -76,3 +76,13 @@ Générer des fichiers CSV triés, lisibles et pertinents, ainsi que des graphiq
 Renforcer les compétences techniques :
 Apprendre à collaborer sur un projet complexe, à utiliser des outils professionnels comme GitHub, et à produire du code robuste et bien documenté.
 
+Aide extérieure sur le projet :
+
+Aide via ChatGPT :
+Nous avons utilisé ChatGPT pour nous guider sur certaines parties du projet, notamment :
+
+La rédaction du script Shell (c-wire.sh) : validation de la structure et des fonctionnalités.
+Quelques conseils pour l'organisation des fichiers et des options du script.
+Aide extérieure légère :
+Pour la réalisation du bonus (graphique avec GnuPlot), nous avons reçu une aide extérieure mineure pour mieux comprendre l’utilisation des commandes de GnuPlot et leur intégration au script.
+
